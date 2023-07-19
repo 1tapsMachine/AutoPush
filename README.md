@@ -15,7 +15,10 @@ AutoPush
 |    |—— cpshUpdated.c
 |—— compile.sh
 ```
-
+## Usage
+- `./compile.sh` to compile the script
+- `./AutoPush` to run the script
+- `follow the instructions on the screen`
 ### Tested Platform
 - software
   ```
